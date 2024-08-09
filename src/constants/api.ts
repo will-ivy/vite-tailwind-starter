@@ -1,0 +1,1 @@
+export const NPS_API_KEY = import.meta.env.VITE_NPS_API_KEY;
